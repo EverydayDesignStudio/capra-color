@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "capra-2019",
+  "private_key_id": "85e2efcc4ca0636c1f6cc9d35e515ad0c1999c92",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDQoGE9+bqy4owR\nSCm8/z1LC/MFAwFFK4uWg+z9ri32gJNbA+LybWF9+XVBHKWrukn6Ag01QBC2z0r6\nWtuhUuH6aFL7fNSGENS0mZXMhJ7yQAi41g2kxC7b9wm/TIg4Bohny8cyk8C5tLBM\nq1I7vY8vJyXFh1LSoWXi6yIm1SpbF0vxPlO3hsqOUfbWJ0basj529VYrPqj15jqH\n6SVJddRq4zHDoGTmJOiaI48GfKyQA0yOK5NIYq2/tdnl9eemVzNfuSa0gtRMc9Hq\n6L0MQJM9zyetB5cF38fq/lAJ36PvbsbMpr/4SPDWNoTtbfe64QX1woR1JMeodOBc\nJTbZY67xAgMBAAECggEAA0pjTEKjC2kjuc5OQ7oQI73TEgM6jvZtTcUEDPqFRLIB\nmP34Q3f+kZnIm9u9gHZYTjxf7FUHynVdrrIWDJ7pu+0PMYKmGLz9WOGjBWo6VlJ0\nnMM6DP0v6sXkSkdVDvKp7j6uZDWkxJ0VKolpezIdxvnuaGWedJ5pdK0+ITgLomsF\n641ZmzrJv1I/UVabS1Du6dfO5WgNv+dfD2cPm1WXkUj/DIoEGnczdaPOfdMLDN86\nOSnjrWFObrJ2Z42Ti/O64+ogN1PH6H2IyRQpDZy9xYHSr1PbEwUoFw3MERmKK8Hy\nFDcGiLHDxbVSvW/hA1EIBhVDPNvdLn9f0Ys/HS4kQQKBgQDs4gHyWp6TzzKnDwAr\nmyVZMbBhPsarZTCdxTxDHUS2MVw8z/AucKL7Tbsavh2AB4kzi2O1qtkoy0xydktV\nJJM1xQVK7rxmogMSNiyahSf2Pv1yRA9VJWvFAZpdov+nGYY+H2cvI9FHQ063lorq\nY3Q5158WATJL0Y0wp3weOujKQQKBgQDhdpjDejAOOkFwOxMy+wRRWdT41UNm8DqJ\nJKfVzNtIY0XFcH3LcdtJquKcB7mFvdsMHP0uq/uUtgc2vJ1v76wZjcIsvLCfaJvd\noQdT+ePAdQlaW9luz5Ie8AsN9rjKcO2ix8CwLnaWT0l0Jj1CEzMx2HHj57eX395l\n+Hizt4nYsQKBgQC7TYmUhCrXXQIELkxILoi9mhiJDAYzB/QFDCu2NbJbDXSNcS3M\nyqtUYgYMAz94OH04EINq5giHxRhReU/fpufvoDWrJlI6JOigwc1K8PbEMtJcQ4yM\nGua4A6h3WackDX6kKFiCYaPc4U+gwpxc8P65rdDQqWmHoc4uJoBxtsrTAQKBgQDU\navkYSllWPjqC85VuFaMGxhzp53teU3zC0v8xZpU+iREmKIrMD1Qr/s0LdherUqk6\nq2E6BJy9ihYX0vJ9kJBTbwR/Q7MgLN2UnG8cBjY2j82lDR440WV4sm2n1UhaqrSp\nBYucMdpWWRL6VECorRAxqRv8PcbyVt/gsI1/vK8psQKBgGmx+A0L79FNpbBvsmRh\nbWV/IfCFskl+ggNPJ90YfmGYWzndk5ZzVmIjCsf78WVofbAnm2TLd6moUnYFhISn\nxoer9UbAssllqLafRKCt9WRmmwCkuUP0kYW+WbQoAIag6t3GRzfgILx0Ly3EHvPz\nX6OfcFRE9ViFd6v284e+lXhU\n-----END PRIVATE KEY-----\n",
+  "client_email": "dominant-color@capra-2019.iam.gserviceaccount.com",
+  "client_id": "111952893781279659640",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dominant-color%40capra-2019.iam.gserviceaccount.com"
+}

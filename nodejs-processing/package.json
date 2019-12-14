@@ -1,0 +1,22 @@
+{
+  "name": "capra-image",
+  "version": "1.0.0",
+  "description": "Try out different ways of blurring images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "research",
+    "capra",
+    "eds"
+  ],
+  "author": "Jordan Roy White",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "gm": "^1.23.1",
+    "imagecolors": "^0.11.0",
+    "nodemon": "^1.18.9"
+  }
+}
